@@ -1,5 +1,6 @@
 # TIL
 * Start at 18.11.14
+* 특정 논문들은 원본을 같이 포함하지 않습니다
 
 ### About
 * NLP Paper
