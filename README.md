@@ -5,3 +5,6 @@
 ### About
 * NLP Paper
   * (18.11.14 ~ ) __Deep learning for sentiment analysis__ by __Lina Maria Rojas‐Barahona__
+* NUGU
+  * REST API
+* Lecture_DL for NLP
