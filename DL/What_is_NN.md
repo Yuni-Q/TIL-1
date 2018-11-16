@@ -16,11 +16,11 @@
 
 ### What is Perceptron?
 
-![image-20181117034130806](/Users/isang-a/Desktop/TIL/Img/DL/Perceptron.png)
+![image-20181117034130806](https://github.com/snaag/TIL/blob/master/Img/DL/Perceptron.png)
 
 
 
-![image-20181117034247460](/Users/isang-a/Desktop/TIL/Img/DL/Equation.png)
+![image-20181117034247460](https://github.com/snaag/TIL/blob/master/Img/DL/Equation.png)
 
 * 퍼셉트론은 이러한 그래프를 갖고, 이러한 그래프를 그리기 위해 이러한 수식을 갖게 된다.
 * 그러다가, 보다 복잡한 구조를 나타내는 것에 대한 필요성을 느끼게 된다.
