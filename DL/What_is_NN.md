@@ -40,7 +40,7 @@
 
 ### Architecture of NN
 
-![image-20181119190422084](/Users/isang-a/Library/Application Support/typora-user-images/image-20181119190422084.png)
+![image-20181119190422084](https://github.com/snaag/TIL/blob/master/Img/DL/NN_architecture.png)
 
 * 은닉층 (Hidden layer)
   * Input이 이 층으로 들어오게 되면, __활성화 함수__를 거치게 된다
