@@ -42,9 +42,9 @@
    2. 어떤 함수 fw를 거친다
    3. 현재의 state ht를 구하게 된다
 
-   ![스크린샷 2018-11-21 오전 12.26.49](/Users/isang-a/Desktop/스크린샷 2018-11-21 오전 12.26.49.png)
+   ![스크린샷 2018-11-21 오전 12.26.49](https://github.com/snaag/TIL/blob/master/Img/DL/RNN%20eq.png)
 
-![스크린샷 2018-11-21 오전 12.30.33](/Users/isang-a/Desktop/스크린샷 2018-11-21 오전 12.30.33.png)
+![스크린샷 2018-11-21 오전 12.30.33](https://github.com/snaag/TIL/blob/master/Img/DL/RNN%20eq2.png)
 
 * 김성훈 교수님의 모두의 딥러닝 강의 lec12: NN의 꽃 RNN 이야기 강의자료 중
 
@@ -54,7 +54,7 @@
 
 ### Architecture of RNN
 
-![스크린샷 2018-11-21 오전 12.28.37](/Users/isang-a/Desktop/스크린샷 2018-11-21 오전 12.28.37.png)
+![스크린샷 2018-11-21 오전 12.28.37](https://github.com/snaag/TIL/blob/master/Img/DL/RNN%20ar2.png)
 
 * 김성훈 교수님의 모두의 딥러닝 강의 lec12: NN의 꽃 RNN 이야기 강의자료 중
 * 사실은 옆에 많은 cell들이 있는데, 왜 하나의 cell만 그렸을까?
@@ -64,7 +64,7 @@
 
 
 
-![스크린샷 2018-11-21 오전 12.44.26](/Users/isang-a/Desktop/스크린샷 2018-11-21 오전 12.44.26.png)
+![스크린샷 2018-11-21 오전 12.44.26](https://github.com/snaag/TIL/blob/master/Img/DL/RNN%20architecture.png)
 
 * (위에) Multi-layer RNN
 
