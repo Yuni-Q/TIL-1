@@ -47,4 +47,28 @@
 
 
 
+### Detail
+
+* 그러면 이제 구조를 좀더 자세히 봐보자
+* ![LSTM architecture.png](/snaag/TIL/blob/master/Img/DL/LSTM%20architecture.png?raw=true)
+  * Forget gate
+    * 여기서는 이전 연산결과로 나온 output(이하 ht-1)과 새롭게 들어온 Input(xt) 중에서 **어떤 정보를 얼마나 버릴지**(잊을지) 를 결정한다
+  * Input gate
+    * 여기서는 ht-1과 xt 를 tanh로 계산한 후, 시그모이드를 거쳐 **어떤 정보를 얼마나 살릴지** 를 결정한다
+  * **따라서 forget, input gate 를 거치면서 어떤 정보를 날리고, 살릴지를 결정한다는 것**
+  * Output gate
+    * 이렇게 계산한 것들을, 얼마나 다음 state로 넘길지 (ht로 만들지) 결정한다
+
+
+
+### Question
+
+* 하지만 아직도 헷갈리는건 **복잡한 연산과 이저어어언 데이터의 보존과의 상관관계** 이다.
+* 수학을 잘하는 친구에게 수식에 대해 자세히 물어봐야겠다
+
+
+
+
+
+
 
